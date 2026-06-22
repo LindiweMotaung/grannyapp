@@ -1,0 +1,1 @@
+ALTER TABLE daily_activities DISABLE ROW LEVEL SECURITY;

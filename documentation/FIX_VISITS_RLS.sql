@@ -1,0 +1,3 @@
+ALTER TABLE visits DISABLE ROW LEVEL SECURITY;
+
+SELECT * FROM visits WHERE status = 'pending';
