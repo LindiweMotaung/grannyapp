@@ -2,7 +2,7 @@
 
 ## Overview
 
-Mobile application for managing an elderly care hostel. Built with Flutter and Dart, backed by Supabase for authentication and data storage.
+A mobile application for managing an elderly care hostel. Designed to simplify resident management, visit scheduling, and staff coordination. Built with Flutter and Dart, backed by Supabase for authentication and data storage.
 
 ## Technologies Used
 
